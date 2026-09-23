@@ -1,0 +1,16 @@
+product_id,product_name,category,brand,current_price,active
+P001,Produit 1,Electronique,HP,211,True
+P002,Produit 2,High-Tech,Dell,42,True
+P003,Produit 3,High-Tech,HP,485,True
+P004,Produit 4,informatique,Lenovo,101,True
+P005,Produit 5,informatique,HP,265,True
+P006,Produit 6,high tech,HP,83,False
+P007,Produit 7,informatique,HP,175,False
+P008,Produit 8,Electronique,Lenovo,29,True
+P009,Produit 9,informatique,Lenovo,335,True
+P010,Produit 10,High-Tech,Dell,208,False
+P011,Produit 11,informatique,Dell,343,True
+P012,Produit 12,High-Tech,Lenovo,447,True
+P013,Produit 13,Electronique,Lenovo,344,False
+P014,Produit 14,INFORMATIQUE,HP,159,False
+P015,Produit 15,informatique,HP,466,True

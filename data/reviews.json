@@ -1,0 +1,302 @@
+[
+  {
+    "_id": "REV001",
+    "customerId": "cust-26",
+    "productId": "P009",
+    "orderId": " ORD33",
+    "rating": 7,
+    "comment": "Très bon produit",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": "yes"
+  },
+  {
+    "_id": "REV002",
+    "customerId": " C019",
+    "productId": "P013",
+    "orderId": " ORD33",
+    "rating": 3,
+    "comment": "Très bon produit",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": "yes"
+  },
+  {
+    "_id": "REV003",
+    "customerId": " C018",
+    "productId": "P004",
+    "orderId": " ORD27",
+    "rating": 5,
+    "comment": "Très bon produit",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": 0
+  },
+  {
+    "_id": "REV004",
+    "customerId": "c001",
+    "productId": "P011",
+    "orderId": "ord-0028",
+    "rating": 5,
+    "comment": "Très bon produit",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": false
+  },
+  {
+    "_id": "REV005",
+    "customerId": "c022",
+    "productId": "P002",
+    "orderId": " ORD25",
+    "rating": 7,
+    "comment": "",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": 1
+  },
+  {
+    "_id": "REV006",
+    "customerId": "C010",
+    "productId": "P011",
+    "orderId": " ORD2",
+    "rating": 7,
+    "comment": "Très bon produit",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": "no"
+  },
+  {
+    "_id": "REV007",
+    "customerId": "c022",
+    "productId": "P002",
+    "orderId": " ORD9",
+    "rating": 2,
+    "comment": "Très bon produit",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": false
+  },
+  {
+    "_id": "REV008",
+    "customerId": " C021",
+    "productId": "P007",
+    "orderId": " ORD7",
+    "rating": 2,
+    "comment": "Très bon produit",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": false
+  },
+  {
+    "_id": "REV009",
+    "customerId": "c022",
+    "productId": "P014",
+    "orderId": "ORD-0026",
+    "rating": 2,
+    "comment": "Très bon produit",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": true
+  },
+  {
+    "_id": "REV010",
+    "customerId": "c030",
+    "productId": "P010",
+    "orderId": "ord-0011",
+    "rating": 5,
+    "comment": "",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": false
+  },
+  {
+    "_id": "REV011",
+    "customerId": "c024",
+    "productId": "P999",
+    "orderId": " ORD20",
+    "rating": 5,
+    "comment": "Très bon produit",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": true
+  },
+  {
+    "_id": "REV012",
+    "customerId": " C002",
+    "productId": "P003",
+    "orderId": " ORD9",
+    "rating": 1,
+    "comment": "Très bon produit",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": false
+  },
+  {
+    "_id": "REV013",
+    "customerId": "C010",
+    "productId": "P014",
+    "orderId": " ORD13",
+    "rating": 2,
+    "comment": "Très bon produit",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": 0
+  },
+  {
+    "_id": "REV014",
+    "customerId": "c014",
+    "productId": "P015",
+    "orderId": "ord-0028",
+    "rating": 4,
+    "comment": "Très bon produit",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": "yes"
+  },
+  {
+    "_id": "REV015",
+    "customerId": "cust-27",
+    "productId": "P002",
+    "orderId": "ORD-0026",
+    "rating": 7,
+    "comment": "",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": true
+  },
+  {
+    "_id": "REV016",
+    "customerId": "c001",
+    "productId": "P002",
+    "orderId": "ord-0034",
+    "rating": 7,
+    "comment": "Très bon produit",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": 0
+  },
+  {
+    "_id": "REV017",
+    "customerId": "cust-29",
+    "productId": "P015",
+    "orderId": "ORD-0035",
+    "rating": 7,
+    "comment": "Très bon produit",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": 0
+  },
+  {
+    "_id": "REV018",
+    "customerId": "c022",
+    "productId": "P012",
+    "orderId": "ORD-0026",
+    "rating": 7,
+    "comment": "Très bon produit",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": true
+  },
+  {
+    "_id": "REV019",
+    "customerId": " C002",
+    "productId": "P005",
+    "orderId": "ORD-0026",
+    "rating": 7,
+    "comment": "Très bon produit",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": true
+  },
+  {
+    "_id": "REV020",
+    "customerId": "c014",
+    "productId": "P012",
+    "orderId": "ord-0040",
+    "rating": 5,
+    "comment": "",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": false
+  },
+  {
+    "_id": "REV021",
+    "customerId": "c024",
+    "productId": "P015",
+    "orderId": "ord-0016",
+    "rating": 5,
+    "comment": "Très bon produit",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": "no"
+  },
+  {
+    "_id": "REV022",
+    "customerId": "C016",
+    "productId": "P005",
+    "orderId": "ORD-0026",
+    "rating": 1,
+    "comment": "Très bon produit",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": 0
+  },
+  {
+    "_id": "REV023",
+    "customerId": " C020",
+    "productId": "P011",
+    "orderId": "ord-0039",
+    "rating": 7,
+    "comment": "Très bon produit",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": 0
+  },
+  {
+    "_id": "REV024",
+    "customerId": " C002",
+    "productId": "P013",
+    "orderId": "ord-0016",
+    "rating": 7,
+    "comment": "Très bon produit",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": false
+  },
+  {
+    "_id": "REV025",
+    "customerId": " C020",
+    "productId": "P004",
+    "orderId": " ORD9",
+    "rating": 5,
+    "comment": "",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": "yes"
+  },
+  {
+    "_id": "REV026",
+    "customerId": " C006",
+    "productId": "P011",
+    "orderId": "ORD-0018",
+    "rating": 3,
+    "comment": "Très bon produit",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": true
+  },
+  {
+    "_id": "REV027",
+    "customerId": "C003",
+    "productId": "P013",
+    "orderId": " ORD19",
+    "rating": 4,
+    "comment": "Très bon produit",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": "no"
+  },
+  {
+    "_id": "REV028",
+    "customerId": "cust-17",
+    "productId": "P014",
+    "orderId": "ord-0017",
+    "rating": 2,
+    "comment": "Très bon produit",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": false
+  },
+  {
+    "_id": "REV029",
+    "customerId": " C019",
+    "productId": "P001",
+    "orderId": "ord-0017",
+    "rating": 5,
+    "comment": "Très bon produit",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": "no"
+  },
+  {
+    "_id": "REV030",
+    "customerId": "c022",
+    "productId": "P012",
+    "orderId": " ORD21",
+    "rating": 4,
+    "comment": "",
+    "reviewDate": "2026-03-12T10:25:00",
+    "verifiedPurchase": "yes"
+  }
+]

@@ -1,0 +1,31 @@
+customer_id,first_name,last_name,email,phone,city,country,birth_date,created_at
+c001,Prenom1,Nom1,user1@example.com,,Paris,France,1990/12/01,2025-01-02 00:00:00
+ C002,Prenom2,Nom2,user2@example.com,0033612345678,Paris,France,1990-12-01,2025-01-03 00:00:00
+C003,Prenom3,Nom3,user3@example.com,0612345678,Lyon,French Republic,1990/12/01,2025-01-04 00:00:00
+c004,Prenom4,Nom4,user4@example.com,0612345678,toulouse,france,,2025-01-05 00:00:00
+C005,Prenom5,Nom5,user5@example.com,0033612345678,PARIS,france,1990-12-01,2025-01-06 00:00:00
+ C006,Prenom6,Nom6,user6@example.com,+33 6 12 34 56 78,Paris 15,france,31-02-2020,2025-01-07 00:00:00
+ C007,Prenom7,Nom7,user7example.com,0033612345678,PARIS,france,,2025-01-08 00:00:00
+C008,Prenom8,Nom8,user8@example.com,,toulouse,FR,1990/12/01,2025-01-09 00:00:00
+C009,Prenom9,Nom9,user9@example.com,+33 6 12 34 56 78,Paris,French Republic,31-02-2020,2025-01-10 00:00:00
+C010,Prenom10,Nom10,user10@example.com,0033612345678,Lyon,FR,1990/12/01,2025-01-11 00:00:00
+C011,Prenom11,Nom11,user11@example.com,0033612345678,toulouse,France,31-02-2020,2025-01-12 00:00:00
+ C012,Prenom12,Nom12,user12@example.com,0612345678,Paris,france,1990-12-01,2025-01-13 00:00:00
+c013,Prenom13,Nom13,user13@example.com,0033612345678,toulouse,French Republic,01/12/1990,2025-01-14 00:00:00
+c014,Prenom14,Nom14,user14example.com,0612345678,Lyon,French Republic,31-02-2020,2025-01-15 00:00:00
+C015,Prenom15,Nom15,user15@example.com,,Toulouse,FR,31-02-2020,2025-01-16 00:00:00
+C016,Prenom16,Nom16,user16@example.com,0033612345678,Paris 15,france,1990-12-01,2025-01-17 00:00:00
+cust-17,Prenom17,Nom17,user17@example.com,0612345678,Paris,French Republic,01/12/1990,2025-01-18 00:00:00
+ C018,Prenom18,Nom18,user18@example.com,0033612345678,PARIS,FR,1990-12-01,2025-01-19 00:00:00
+ C019,Prenom19,Nom19,user19@example.com,0033612345678,Paris 15,France,1990-12-01,2025-01-20 00:00:00
+ C020,Prenom20,Nom20,user20@example.com,0033612345678,Lyon,French Republic,1990-12-01,2025-01-21 00:00:00
+ C021,Prenom21,Nom21,user21example.com,+33 6 12 34 56 78,Paris 15,france,31-02-2020,2025-01-22 00:00:00
+c022,Prenom22,Nom22,user22@example.com,,Paris,France,01/12/1990,2025-01-23 00:00:00
+c023,Prenom23,Nom23,user23@example.com,+33 6 12 34 56 78,Lyon,france,,2025-01-24 00:00:00
+c024,Prenom24,Nom24,user24@example.com,0612345678,toulouse,france,,2025-01-25 00:00:00
+C025,Prenom25,Nom25,user25@example.com,0612345678,Toulouse,FR,1990-12-01,2025-01-26 00:00:00
+cust-26,Prenom26,Nom26,user26@example.com,,Paris,French Republic,01/12/1990,2025-01-27 00:00:00
+cust-27,Prenom27,Nom27,user27@example.com,0033612345678,Paris,French Republic,31-02-2020,2025-01-28 00:00:00
+c028,Prenom28,Nom28,user28example.com,0612345678,Lyon,French Republic,,2025-01-29 00:00:00
+cust-29,Prenom29,Nom29,user29@example.com,+33 6 12 34 56 78,Lyon,FR,01/12/1990,2025-01-30 00:00:00
+c030,Prenom30,Nom30,user30@example.com,+33 6 12 34 56 78,Lyon,France,31-02-2020,2025-01-31 00:00:00
