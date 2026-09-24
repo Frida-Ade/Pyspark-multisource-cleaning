@@ -10,7 +10,6 @@ Projet de nettoyage et consolidation de données multisources réalisé avec PyS
 
 L'objectif est de consolider plusieurs sources de données hétérogènes afin de construire une vue analytique unique nommée **customer_order_360**.
 
----
 
 ## Sources de données utilisées
 
@@ -29,7 +28,6 @@ L'objectif est de consolider plusieurs sources de données hétérogènes afin d
 
 - delivery_events
 
----
 
 ## Fonctionnalités réalisées
 
@@ -69,7 +67,6 @@ L'objectif est de consolider plusieurs sources de données hétérogènes afin d
 - Sauvegarde au format Parquet
 - Partitionnement par année et mois
 
----
 
 ## Structure du projet
 
@@ -87,6 +84,14 @@ tp_multisource/
 ├── config/
 │   └── application.conf
 │
+├── data/
+│   ├── customers.csv
+│   ├── orders.csv
+│   ├── order_items.csv
+│   ├── products.csv
+│   ├── reviews.json
+│   └── delivery_events.json
+│
 ├── sql/
 │   ├── create_tables.sql
 │   └── analytical_queries.sql
@@ -95,9 +100,7 @@ tp_multisource/
 └── README.md
 ```
 
-*Les dossiers `data/` (sources) et `output/` (résultats Parquet, rapports qualité, rejets) sont générés localement à l'exécution et ne sont pas versionnés.*
-
----
+*Le dossier `output/` (résultats Parquet, rapports qualité, rejets) est généré localement à l'exécution et n'est pas versionné.*
 
 ## Modules
 
@@ -144,8 +147,6 @@ Sauvegarde et relecture des fichiers Parquet.
 
 Orchestration complète du pipeline.
 
----
-
 ## Dépendances
 
 ```text
@@ -153,8 +154,6 @@ pyspark
 pymongo
 psycopg2-binary
 ```
-
----
 
 ## Exécution
 
@@ -166,8 +165,6 @@ org.postgresql:postgresql:42.7.3,\
 org.mongodb.spark:mongo-spark-connector_2.12:10.3.0 \
 src/main.py
 ```
-
----
 
 ## Livrables
 
